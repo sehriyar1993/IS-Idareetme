@@ -1,0 +1,31 @@
+﻿@using MvcFirmaCAgirilar.Models.Entity
+@model List<TblCagrilar>
+
+@{
+    ViewBag.Title = "passifcagiri";
+    Layout = "~/Views/Shared/FiramalarLayout.cshtml";
+}
+
+<table class="table table-borderless">
+<tr>
+    <th>ID</th>
+    <th>Başlıq</th>
+    <th>Tarix</th>
+    
+    <th>Ətraflı</th>
+</tr>
+@foreach (var x in Model)
+{
+    <tr>
+        <td>@x.ID</td>
+        <td>@x.Konu</td>
+        <td>@x.Tarih</td>
+        
+        <td><a href="/Default/CagiriDetaylar/@x.ID" class="btn btn-primary">Ətraflı</a></td>
+
+    </tr>
+}
+
+
+</table>
+<a href="/Default/Yenicagiri" class="btn btn-danger">Yeni Müraciət</a>

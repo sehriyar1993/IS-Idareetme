@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "is takip", "is takip.csproj", "{9821E3E5-6947-4A5B-AE4C-3A2FFEC1DF03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9821E3E5-6947-4A5B-AE4C-3A2FFEC1DF03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9821E3E5-6947-4A5B-AE4C-3A2FFEC1DF03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9821E3E5-6947-4A5B-AE4C-3A2FFEC1DF03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9821E3E5-6947-4A5B-AE4C-3A2FFEC1DF03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CF159AC-3C3E-4443-AF9F-327DE39831E4}
+	EndGlobalSection
+EndGlobal

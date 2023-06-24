@@ -1,0 +1,26 @@
+﻿@using MvcFirmaCAgirilar.Models.Entity
+@model List<TblCAgriDetay>
+@{
+    ViewBag.Title = "CagiriDetaylar";
+    Layout = "~/Views/Shared/FiramalarLayout.cshtml";
+}
+
+<h3>Müraciət Detalları</h3>
+<br />
+<table class = " table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Detallar</th>
+        <th>Tarix</th>
+        <th>Saat</th>
+    </tr>
+    @foreach(var x in Model.ToList()) 
+    {
+       <tr>
+           <td>@x.ID</td>
+           <td>@x.Aciklama</td>
+           <td>@x.Tarih</td>
+           <td>@x.Saat</td>
+       </tr>
+    }
+</table>

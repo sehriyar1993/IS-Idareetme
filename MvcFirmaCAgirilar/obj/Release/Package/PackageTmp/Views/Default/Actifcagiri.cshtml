@@ -1,0 +1,37 @@
+﻿@using MvcFirmaCAgirilar.Models.Entity
+@model List<TblCagrilar>
+@{
+    ViewBag.Title = "Actifcagiri";
+    Layout = "~/Views/Shared/FiramalarLayout.cshtml";
+}
+<table class="table table-borderless">
+    <tr>
+        <th>ID</th>
+        <th>Başlıq</th>
+        <th>Tarix</th>
+        <th>Ayarla</th>
+        <th>Ətraflı</th>
+    </tr>
+    @if (ViewBag.m > 1)
+    {
+        foreach (var x in Model)
+        {
+            <tr>
+                <td>@x.ID</td>
+                <td>@x.Konu</td>
+                <td>@x.Tarih</td>
+                <td><a href="/Default/CagiriGetir/@x.ID" class="btn btn-info">Ayarla</a></td>
+                <td><a href="/Default/CagiriDetaylar/@x.ID" class="btn btn-primary">Ətraflı</a></td>
+
+            </tr>
+        }
+    }
+
+    @if (ViewBag.m == 0)
+    {
+        <td>@Html.Label("Aktiv Müraciətiniz Yoxdur!!!")</td>
+        
+    }
+
+</table>
+<a href="/Default/Yenicagiri" class="btn btn-danger">Yeni Müraciət</a>

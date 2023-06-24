@@ -1,0 +1,45 @@
+﻿@model MvcFirmaCAgirilar.Models.Entity.TblFirma
+
+@{
+    ViewBag.Title = "ProfilimiDuzenle";
+    Layout = "~/Views/Shared/FiramalarLayout.cshtml";
+}
+
+<h2>Ayarla</h2>
+<br />
+@using (Html.BeginForm("ProfilimiDuzenle", "Default", FormMethod.Post))
+{
+    @Html.HiddenFor(x => x.ID)
+    <br />
+    @Html.Label("Firma Adı")
+    @Html.TextBoxFor(x => x.Ad, new { @class = "from-control" })
+    <br />
+    <br />
+    @Html.Label("Təmsilçi")
+    @Html.TextBoxFor(x => x.Yetkili, new { @class = "from-control" })
+    <br />
+    <br />
+    @Html.Label("Sektor")
+    @Html.TextAreaFor(x => x.Sektor, new { @class = "from-control" })
+    <br />
+    <br />
+    @Html.Label("Şifrə")
+    @Html.PasswordFor(x => x.Sifre, new { @class = "from-control" })
+    <br />
+    <br />
+    @Html.Label("Şəhər")
+    @Html.TextAreaFor(x => x.Il, new { @class = "from-control" })
+    <br />
+    <br />
+    @Html.Label("Şöbə")
+    @Html.TextAreaFor(x => x.Ilce, new { @class = "from-control" })
+    <br />
+    <br />
+    @Html.Label("Adress")
+    @Html.TextAreaFor(x => x.Adress, 10, 100, new { @class = "from-control" })
+    <br />
+    <button class="btn btn-info">Yenilə</button>
+}
+
+
+

@@ -1,0 +1,24 @@
+﻿@model MvcFirmaCAgirilar.Models.Entity.TblCagrilar
+
+@{
+    ViewBag.Title = "CagiriGetir";
+    Layout = "~/Views/Shared/FiramalarLayout.cshtml";
+}
+
+<h2>Ayarla</h2>
+<br />
+@using (Html.BeginForm("CagiriDuzenle", "Default", FormMethod.Post))
+{
+    @Html.HiddenFor(x=>x.ID)
+    <br />
+    @Html.Label("Başlıq")
+    @Html.TextBoxFor(x => x.Konu, new { @class = "from-control" })
+    <br />
+    @Html.Label("Ətraflı")
+    @Html.TextAreaFor(x => x.Aciklama, 10, 100, new { @class = "from-control" })
+    <br />
+    <button class="btn btn-info">Yenilə</button>
+}
+
+
+

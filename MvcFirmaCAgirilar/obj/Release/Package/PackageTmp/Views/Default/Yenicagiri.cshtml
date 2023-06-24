@@ -1,0 +1,21 @@
+﻿@model MvcFirmaCAgirilar.Models.Entity.TblCagrilar
+
+@{
+    ViewBag.Title = "Yenicagiri";
+    Layout = "~/Views/Shared/FiramalarLayout.cshtml";
+}
+
+<h2>Yeni Müraciət Yarat</h2>
+<br />
+<form method ="post">
+    @Html.Label("Başlıq")
+    @Html.TextBoxFor(x => x.Konu, new { @class = "from-control" })
+    <br />
+    @Html.Label("Ətraflı")
+    @Html.TextAreaFor(x => x.Aciklama, 10, 100, new { @class = "from-control" })
+    <br />
+    <button class="btn btn-primary">Müraciət Yarat</button>
+    
+</form>
+
+

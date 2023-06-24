@@ -1,0 +1,97 @@
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\is takip.exe
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\EntityFramework.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\is takip.exe.config
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\EntityFramework.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is takip.csproj.AssemblyReference.cache
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is takip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.Form1.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.Formlar.Form1.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.Formlar.Frm_personel.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.Formlar.FrmAktivCagiri.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.Formlar.FrmAnaForm.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.Formlar.FrmCagiriAtama.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.Formlar.FrmGorev.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.Formlar.FrmGorevDetay.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.Formlar.FrmGorevliste.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.Formlar.FrmPersonelstatistik.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.login.Frmloginn.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.PersonelGorev.FrmAktivGorev.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.PersonelGorev.FrmCagiriDetayGiris.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.PersonelGorev.FrmCagiriListesi.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.PersonelGorev.Frmpassivvv.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.PersonelGorev.FrmPersonelFormu.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.Properties.Resources.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is takip.csproj.GenerateResource.cache
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is takip.exe.licenses
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is takip.csproj.CoreCompileInputs.cache
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is takip.csproj.CopyComplete
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is takip.exe
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is takip.pdb
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\is takip.pdb
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.Formlar.FrmFirma.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.Formlar.FrmYeniFirma.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.login.FrmSifreler.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.Formlar.FrmGelenMesaj.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.Formlar.FrmGonderilen.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.Formlar.FrmYeniMesaj.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is_takip.PersonelGorev.FrmPmesaj.resources
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\is takip.exe.manifest
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\bin\Debug\is takip.application
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is takip.exe.manifest
+C:\Users\Hp Pavilion Gaming\source\repos\is takip\obj\Debug\is takip.application
